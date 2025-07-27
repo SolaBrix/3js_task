@@ -9,14 +9,14 @@ This project is a technical test to evaluate your skills in 3D modeling, light s
 ## 🎯 Requirements
 
 ### ✅ Core Features:
-- Load a 3D model (provided separately)
+- Load a 3D model (example: cube)
 - Set up a **Three.js** scene with:
   - **Directional light** acting as the sun
   - **Ground plane** to receive shadows
   - **Orthographic camera** to capture shadow clearly
 - Use your own **latitude and longitude**
 - Calculate the sun's position for:
-  - 📅 **Date:** 22nd December 2025
+  - 📅 **Date:** 21st December 2025
   - 🕔 **Time:** 5:00 PM (local time)
 - Render shadows accurately on the plane
 
