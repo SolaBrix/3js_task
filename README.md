@@ -2,7 +2,7 @@
 
 ## 📌 Objective
 
-This project is a technical test to evaluate your skills in 3D modeling, light simulation, and camera setup using **Three.js**. The goal is to visualize a 3D object placed on the ground and display its **real-world sun shadow** as it would appear on **22nd December 2025 at 5:00 PM**, based on your **actual home coordinates**.
+This project is a technical test to evaluate your skills in 3D modeling, light simulation, and camera setup using **Three.js**. The goal is to visualize a 3D object placed on the ground and display its **real-world sun shadow** as it would appear on **21st December 2025 at 5:00 PM**, based on your **actual home coordinates**.
 
 ---
 
